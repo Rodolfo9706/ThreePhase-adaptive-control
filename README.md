@@ -21,3 +21,14 @@ Clone the repository and follow the setup instructions to reproduce the results 
 
 ```bash
 git clone https://github.com/Rodolfo9706/Model-adaptive-control-for-AC-DC-three-phase-converters.git
+
+## Contributors  
+- [@gfloresc](https://github.com/gfloresc)
+- [@Rodolfo9706](https://github.com/Rodolfo9706)
+
+<p align="center">
+  <a href="https://github.com/Rodolfo9796/Buck-boost-controllers/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Rodolfo9706/Buck-boost-controllers" />
+  </a>
+</p>
+
