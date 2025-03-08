@@ -19,9 +19,6 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 ## 🔧 Getting Started
 Clone the repository and follow the setup instructions to reproduce the results presented in the study. Contributions and discussions are welcome!  
 
-```bash
-git clone https://github.com/Rodolfo9706/Model-adaptive-control-for-AC-DC-three-phase-converters.git
-
 ## Contributors  
 - [@gfloresc](https://github.com/gfloresc)
 - [@Rodolfo9706](https://github.com/Rodolfo9706)
@@ -31,4 +28,9 @@ git clone https://github.com/Rodolfo9706/Model-adaptive-control-for-AC-DC-three-
     <img src="https://contrib.rocks/image?repo=Rodolfo9706/Buck-boost-controllers" />
   </a>
 </p>
+
+```bash
+git clone https://github.com/Rodolfo9706/Model-adaptive-control-for-AC-DC-three-phase-converters.git.
+
+
 
