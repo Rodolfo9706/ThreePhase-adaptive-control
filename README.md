@@ -15,10 +15,10 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 
 ## 📂 Repository Contents  
 📌 **Mathematical Model:** Equations governing the converter dynamics.  
-📌 **Control Algorithm Implementation:** Nonlinear adaptive control logic.  
-📌 **SVPWM Modulation Code:** Pulse width modulation for control input distribution.  
+📌 **Control Algorithm Implementation:** Nonlinear adaptive control logic.   
+📌 **Simulation Scripts:** Simscape - simulink validation  
 📌 **Simulation Scripts:** SITL validation using PSpice.  
-📌 **Performance Analysis:** Comparisons with PI controllers under various scenarios.  
+
 
 ---
 
