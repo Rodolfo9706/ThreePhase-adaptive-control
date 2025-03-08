@@ -20,5 +20,4 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 Clone the repository and follow the setup instructions to reproduce the results presented in the study. Contributions and discussions are welcome!  
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Rodolfo9706/Model-adaptive-control-for-AC-DC-three-phase-converters.git
