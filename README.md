@@ -3,9 +3,7 @@
 This repository contains the implementation of a **Lyapunov-based nonlinear adaptive controller** for three-phase **AC/DC converters** operating under **exogenous disturbances** and **load variations**. The control strategy ensures **output voltage regulation** and addresses the challenges of **bilinear and underactuated system dynamics**.  
 
 ---
-
-![image](https://github.com/user-attachments/assets/07255de5-8e7a-478f-8c10-1338df31746a)
-
+<img src="https://github.com/user-attachments/assets/07255de5-8e7a-478f-8c10-1338df31746a" width="300">
 
 ## 🚀 Key Features  
 ✅ **Nonlinear Adaptive Control:** Enhances system stability and robustness against disturbances.  
