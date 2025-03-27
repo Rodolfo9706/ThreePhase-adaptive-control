@@ -4,7 +4,7 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 
 <img src="https://github.com/user-attachments/assets/07255de5-8e7a-478f-8c10-1338df31746a" width="300">
 
-![Descripción](https://github.com/tu_usuario/tu_repositorio/raw/main/assets/mi_gif.gif)
+![Descripción](https://github.com/Rodolfo9706/ThreePhase-adaptive-control/blob/main/gif.gif)
 
 ---
 
