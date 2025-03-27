@@ -17,13 +17,8 @@ vod = 200;
 %arg = E^2 - (8*R*vod^2)/(3*Rl);
 %idd = E/(2*R) +  sqrt(arg)/(2*R);
 
-%% Control parameters
-%k1 = 6000;    k2 = 300;     k3 = 3000;
 %% Control parameters sitl
 k1 = 5000000;    k2 = 400000;     k3 = 700000;
-%k1 = 1900000;   k2 = 400000;    k3 = 800000;
-%k1 = 396100;    k2 = 11600;     k3 = 120000;
-
 
 % antes del signo de omega k1 = 30;    k2 = 10;     k3 = 120;
 
