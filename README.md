@@ -4,6 +4,12 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 
 <img src="https://github.com/user-attachments/assets/07255de5-8e7a-478f-8c10-1338df31746a" width="300">
 
+git add ThreePhase-adaptive-control/gif.gif
+git commit -m "Añadir GIF al README"
+git push origin main
+
+![Descripción](ThreePhase-adaptive-control/gif.gif)
+
 ---
 
 ## 🚀 Key Features  
