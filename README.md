@@ -24,6 +24,21 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 
 ---
 
+├── Orcad-simulink/        # SITL validation via co-simulation with PSpice
+│   ├── param.m            # System parameters
+│   └── AdaptiveSIL.slx    # Control model linked with PSpice
+│
+├── control/               # Standalone nonlinear adaptive controller
+│   ├── params.m           # Control parameters
+│   └── ...                # Implementation of adaptive control logic
+│
+├── toolbox/               # Simscape-compatible version (no PSpice required)
+│   ├── params.m           # Control parameters
+│   └── ...                # Control model using Simscape Power Electronics
+
+
+---
+
 
 ## 🔧 Getting Started  
 Clone the repository and follow the setup instructions to reproduce the results presented in the study. Contributions and discussions are welcome!  
