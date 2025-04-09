@@ -36,7 +36,7 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 - **toolbox/**  
   Simscape-based implementation using Power Electronics toolbox (no PSpice needed).  
   - `params.m`: Control parameters.  
-  - Other files: Equivalent adaptive controller using Simscape libraries.
+  - `simsimulink.slx`: Equivalent adaptive controller using Simscape libraries.
 
 
 ---
