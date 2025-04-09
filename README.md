@@ -22,8 +22,6 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 📌 **Simulation Scripts:** SITL validation using PSpice.  
 
 
----
-
 ├── Orcad-simulink/        # SITL validation via co-simulation with PSpice
 │   ├── param.m            # System parameters
 │   └── AdaptiveSIL.slx    # Control model linked with PSpice
