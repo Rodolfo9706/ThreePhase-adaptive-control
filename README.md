@@ -31,7 +31,7 @@ This repository contains the implementation of a **Lyapunov-based nonlinear adap
 - **control/**  
   Includes the nonlinear adaptive controller with standard Simulink blocks.  
   - `params.m`: Parameter file for control tuning.  
-  - Other files: Implementation of the adaptive control logic.  
+  - `AdaptiveControl.slx`: Implementation of the adaptive control logic.  
 
 - **toolbox/**  
   Simscape-based implementation using Power Electronics toolbox (no PSpice needed).  
